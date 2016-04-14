@@ -1,0 +1,2 @@
+SELECT TOP 2 * FROM Customers;
+SELECT TOP 50 PERCENT * FROM Customers;
